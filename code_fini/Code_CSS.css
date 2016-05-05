@@ -1,0 +1,107 @@
+html {
+	background: url("bg.jpg") no-repeat; 
+	background-size: cover;
+	
+}
+
+body
+{
+	height: 875px;
+	width: 1400px;
+	
+}
+
+main
+{
+	margin-left: auto;
+	margin-right: auto;
+	height: 690 px;
+	width: 1020px;
+	background-color: #fff;
+}
+
+p        /*Texte en haut et en dessous des image*/   
+{
+		color:#7a7a7a;
+}
+
+hr{
+	width: 86%;
+	border: 1px #e8e8e8 inset;
+	color: white;
+}
+
+.main1
+{
+	text-align: center;
+	font-size: 20px;
+	height:90px;
+	width: 900px;
+	margin-top: 45px;
+	margin-left: 60px;
+	font-weight: bold;
+}
+
+h3 /*Titre des collone*/
+{
+	font-size: 18px;
+}
+
+div > p /*Texte en dessous image*/
+{
+	font-size: 14px;
+}
+
+.i1
+{
+	height: 195px;
+	width: 260px;
+	margin-left: 6px;
+	
+}
+
+.collone1
+{
+	height: 480px;
+	width: 260px;
+	margin-left: 60px;
+	float: left;
+}
+
+.i2
+{
+	
+	height:195px;
+	width: 260px;
+	margin-left: 6px;
+	
+}
+
+.collone2
+{
+	
+	height: 480px;
+	width: 260px;
+	margin-left: 60px;
+	
+}
+
+.i3
+{
+	height: 195px;
+	width: 260px;
+	margin-left: 6px;
+	
+}
+
+.collone3
+{
+	height: 480px;
+	width: 260px;
+	margin-left: 60px;
+	
+}
+div{
+	display: inline-block;
+	margin-top: 45px;
+}
