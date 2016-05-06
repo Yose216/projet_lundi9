@@ -7,7 +7,7 @@
 	background: black;
 	
 }
-#navigation li {
+ li {
 	display: inline;
 	list-style: none;
 	margin: 10px;
@@ -17,13 +17,13 @@
 	text-align:center;
 	line-height: 40px;
 }
-#navigation a {
+ a {
 	display:inline-block;
 	margin: 0px;
 	text-decoration: none;
 	color: white;
 }
-#navigation ul {
+ ul {
 	padding: 0px;
 	margin: 0px;
 	list-style-type: none;
