@@ -73,6 +73,7 @@ h2 {
     margin-top: 17px;
 	margin-left: 5px;
 	list-style: none;
+	
 }
 
 html {
@@ -100,6 +101,7 @@ main
 p        /*Texte en haut et en dessous des image*/   
 {
 		color:#7a7a7a;
+		font-family: Bitter, Arial;
 }
 
 hr{
