@@ -1,3 +1,8 @@
+@font-face {
+	font-family:"Josefin Sans";
+	src: url(JosefinSans-Regular.ttf);
+}
+
 #navigation {
 	padding: 0px; 
 	margin: 0px;
@@ -44,7 +49,7 @@ h1{
 	padding: 00px;
 	border: 0px;
 	margin: 0px;
-    font-family: Josefin Sans, Arial;
+    font-family: "Josefin Sans", Arial;
 	width:1020px;
 }
 
@@ -79,12 +84,12 @@ h2 {
 html {
 	background: url("bg.jpg") no-repeat; 
 	background-size: cover;
-	
+	background-color: black;
 }
 
 body
 {
-	height: 1010px;
+	height: 1100px;
 	width: 1020px;
 	background-color: #fff;
 	margin: auto;
@@ -186,4 +191,12 @@ div{
 	margin-top: 45px;
 }
 
+a:hover {
+	color:#cfa205;
+}
+
+@font-face {
+	font-family:"Josefin Sans";
+	src: url(JosefinSans-Regular.ttf);
+}
 
